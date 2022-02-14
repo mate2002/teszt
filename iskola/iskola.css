@@ -1,0 +1,55 @@
+body
+{
+    background-color: silver;
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20pt;
+}
+
+.menu
+{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin: 5px;
+}
+
+.menu a
+{
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+
+.menu a:hover
+{
+    color: yellow;
+    background-color: red;
+}
+.aktualis
+{
+    color: skyblue !important;
+}
+
+.vissza
+{
+    margin-top: 30px;
+    border-top: 2px solid gray;
+    padding: 10px;
+    text-align: right;
+}
+
+.vissza a
+{
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+    opacity: 0.5;
+}
+
+.vissza a:hover
+{
+    opacity: 1.0;
+}
